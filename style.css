@@ -51,7 +51,7 @@ a:hover {
 
 /* Mis en forme de la baseline */
 #baseline{
-  background-color: #fa8072;
+  background-image: url(images/lamazoom.jpg);
   text-align: center;
   background-size: cover;
   padding: 150px;
@@ -85,7 +85,7 @@ a:hover {
   width: 80%;
   display:flex;
   flex-wrap: wrap;
-  justify-content: center
+  justify-content: center;
 }
 
 nav li {
